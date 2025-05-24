@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:hsl(30, 54%, 90%);
+}
+.contenedor{
+    background-color: white;
+    width: 500px;
+    border-radius: 10px;
+    margin: 50px auto;
+}
+.imagen{
+ padding-top: 20px;
+}
+img {
+margin: 0 auto ;
+width: 89%;
+border-radius: 10px;
+display: block;
+}
+.alineacion{
+    padding: 20px 30px 10px;
+}
+h1{
+font-family: "Young Serif", serif;
+font-weight: 400;
+font-style: normal;
+font-size: 26px;
+margin-bottom: 10px
+}
+p{
+    font-family: "Outfit", sans-serif;
+  font-style: normal;
+  font-size: 11px;
+  color: hsl(30, 10%, 34%);
+  margin-bottom: 15px;
+}
+.bloque-t{
+width: 100%;
+background-color:hsl(330, 100%, 98%) ;
+border-radius: 10px;
+margin-bottom: 10px;
+
+}
+h3{
+    font-family: "Outfit", sans-serif;
+     font-style: normal;
+  font-size: 15px;
+  color: hsl(332, 51%, 32%);
+  position: relative;
+  margin-left: 10px;
+  padding-top: 10px;
+}
+ul{
+     font-family: "Outfit", sans-serif;
+     font-style: normal;
+    font-size: 11px;
+    line-height: 20px;
+    padding: 5px 20px 10px 20px;
+    color: hsl(30, 10%, 34%);
+}
+h2{
+    color: hsl(14, 45%, 36%);
+    font-family: "Young Serif", serif;
+font-weight: 400;
+font-style: normal;
+font-size: 20px;
+}
+hr{
+    margin-bottom: 15px;
+}
+li{
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.instrucciones{
+    font-size: 12px;
+padding-left: 19px;
+color: hsl(30, 10%, 34%);
+}
+.separacion{
+    margin-top: 20px
+}
+.nutricion{
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+span{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: -13px;
+    color: hsl(14, 45%, 36%);
+}
+.contenido{
+    margin-left: 20px;
+    margin-bottom: 5px;
+    margin-top: -5px;
+}
