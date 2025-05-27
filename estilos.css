@@ -37,6 +37,7 @@ p{
   font-size: 11px;
   color: hsl(30, 10%, 34%);
   margin-bottom: 15px;
+line-height: 15px;
 }
 .bloque-t{
 width: 100%;
@@ -58,9 +59,10 @@ ul{
      font-family: "Outfit", sans-serif;
      font-style: normal;
     font-size: 11px;
-    line-height: 20px;
+    line-height: 15px;
     padding: 5px 20px 10px 20px;
     color: hsl(30, 10%, 34%);
+    
 }
 h2{
     color: hsl(14, 45%, 36%);
@@ -77,9 +79,11 @@ li{
     padding-left: 10px;
 }
 .instrucciones{
-    font-size: 12px;
+  font-family: "Outfit", sans-serif;
+    font-size: 11px;
 padding-left: 19px;
 color: hsl(30, 10%, 34%);
+line-height: 16px;
 }
 .separacion{
     margin-top: 20px
